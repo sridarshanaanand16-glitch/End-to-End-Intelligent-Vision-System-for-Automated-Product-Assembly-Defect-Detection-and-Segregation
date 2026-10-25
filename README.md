@@ -1,4 +1,4 @@
-# Automated Tap Cap Assembly with Vision-Based Label Inspection System
+# End-to-End Intelligent Vision System for Automate Product Assembly Defect Detection and Segregation
 
 A low-cost, PLC-controlled electro-pneumatic assembly cell that presses, inspects and sorts tap-cap assemblies on the fly. A Raspberry Pi 4 with OpenCV replaces a proprietary smart camera, so small manufacturers get industrial-grade automation without heavy capital expenditure.
 
