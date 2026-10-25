@@ -215,7 +215,7 @@ Planned over 4 months, ending in a working prototype for live demonstration.
 ├── vision/            Raspberry Pi / OpenCV inspection code
 └── images/            Photos and renders
 ```
-
+[CLICK HERE FOR 3D CAD FILE GOOGLE LINK](https://drive.google.com/drive/folders/18YnDShiRJCulWh5oLK0VOjASGSmF6tQN?usp=sharing)
 ## Project Status
 - Complete: 3D CAD, 2D drawing, electro-pneumatic simulation, PLC ladder logic, vision approach defined.
 - In progress / planned: fabrication, vision tuning and integrated cell testing.
