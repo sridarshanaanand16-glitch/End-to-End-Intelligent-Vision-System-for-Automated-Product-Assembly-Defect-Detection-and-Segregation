@@ -1,0 +1,2 @@
+# End-to-End-Intelligent-Vision-System-for-Automated-Product-Assembly-Defect-Detection-and-Segregation
+A low-cost, PLC-controlled electro-pneumatic cell that assembles, inspects and sorts tap-cap assemblies on the fly. A Raspberry Pi 4 with OpenCV checks the "LEO" label, smudges, scratches and mating air gaps. A Delta PLC drives the pneumatic press and reject diverter, so MSMEs get industrial-grade automation without proprietary smart cameras.
